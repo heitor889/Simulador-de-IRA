@@ -259,6 +259,7 @@ class AppMetricas:
             "Insira a menção convertida em valor:\n"
             " • SS ➔ 5.0 | MS ➔ 4.0 | MM ➔ 3.0\n"
             " • MI ➔ 2.0 | II  ➔ 1.0 | SR ➔ 0.0\n\n"
+
         )
 
         lbl_corpo = tk.Label(
